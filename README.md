@@ -4,7 +4,7 @@ I'm a software developer that cares about uncertainty in data and life in genera
 approach for its focus on (un)certainty distributions.
 
 I built the data collection, reporting, and analysis backend for a family office that trades livestock futures. I traded futures
-myself with a macro-based strategy that I ultimately abandoned following a failure to reject the null hypothesis using a Bayesian 
+with a macro-based strategy that I ultimately abandoned following a failure to reject the null hypothesis using a Bayesian 
 estimation technique. I have learned that backtests should occur after statistical tests, and am trying to spread that message via 
 the [@confirmsignal](https://twitter.com/confirmsignal) handle on Twitter.
 
