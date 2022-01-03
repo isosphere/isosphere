@@ -1,14 +1,15 @@
 ### Hi there, I'm Matt! 👋
 
-I'm a software developer that cares about uncertainty in data and life in general. I love Rust for its safety guarentees, and the Bayesian statistical
-approach for its focus on (un)certainty distributions.
+I'm a software developer that cares about **computing under uncertainty**. I love Rust for its **safety guarentees**, and the Bayesian statistical
+approach for the **clarity** of its outputs. I believe in **clear communication** and **useful documentation**.
 
-I built the data collection, reporting, and analysis backend for a family office that trades livestock futures. I traded futures
-with a macro-based strategy that I ultimately abandoned following a failure to reject the null hypothesis using a Bayesian 
-estimation technique. I have learned that backtests should occur after statistical tests, and am trying to spread that message via 
-the [@confirmsignal](https://twitter.com/confirmsignal) handle on Twitter.
+As a software developer I have:
+* built a data collection, reporting, and analysis backend for futures traders
+* designed a custom CRM for the meat industry
+* built monitoring software polling a campus of environmental monitoring devices for Sanofi Pasteur in Toronto, Canada
+* produced software that communicates with closed, proprietary protocols via reverse engineering
 
-I summarized my life story at [my website](https://matthewscheffel.com).
+As a trader I have learned that backtests sample across a single happenstance path and that the universe of counterfactual paths must be considered. In other words, past performance is not indicitive of future results. I am trying to spread that message via the [@confirmsignal](https://twitter.com/confirmsignal) handle on Twitter.
 
 ## Contact
 
