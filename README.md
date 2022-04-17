@@ -1,7 +1,8 @@
 ### Hi there, I'm Matt! 👋
 
 I'm a software developer that cares about **computing under uncertainty**. I love Rust for its **safety guarentees**, and the Bayesian statistical
-approach for the **clarity** of its outputs. I believe in **clear communication** and **useful documentation**.
+approach for the **clarity** of its outputs. I believe in **clear communication** and **useful documentation**. I handle my own devops, and I 
+provision my own servers. 
 
 As a software developer I have:
 * built a data collection, reporting, and analysis backend for futures traders
