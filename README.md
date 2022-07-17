@@ -5,8 +5,8 @@ approach for the **clarity** of its outputs. I believe in **clear communication*
 provision my own servers. 
 
 As a software developer I have:
-* built a data collection, reporting, and analysis backend for futures traders
-* designed a custom CRM for the meat industry
+* built a data collection, reporting, and analysis backend for a proprietary trading office
+* designed a custom CRM for a participant in the meat industry
 * built monitoring software polling a campus of environmental monitoring devices for Sanofi Pasteur in Toronto, Canada
 * produced software that communicates with closed, proprietary protocols via reverse engineering
 
