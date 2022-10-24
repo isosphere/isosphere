@@ -9,8 +9,6 @@ As a software developer I have:
 * built monitoring software polling a campus of environmental monitoring devices for Sanofi Pasteur in Toronto, Canada
 * produced software that communicates with closed, proprietary protocols via reverse engineering
 
-As a trader I have learned that backtests sample across a single happenstance path and that the universe of counterfactual paths must be considered. In other words, past performance is not indicitive of future results. I am trying to spread that message via the [@confirmsignal](https://twitter.com/confirmsignal) handle on Twitter.
-
 ## Contact
 
 You can find my Linked In profile [here](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
