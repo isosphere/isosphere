@@ -4,10 +4,10 @@ provision my own servers.
 
 As a software developer I have:
 * built a responsive WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
-* built a data collection, reporting, and analysis backend for a proprietary trading office
-* designed a custom CRM for a client in the physical meat industry
-* built monitoring software polling a campus of environmental monitoring devices for Sanofi Pasteur in Toronto, Canada
-* produced software that communicates with closed, proprietary protocols via reverse engineering
+* built a data collection, reporting, and analysis backend for the financial trading side of [an expert in the meat and livestock industry](https://jsferraro.com/)
+* architected a custom CRM for the above client's physical meat business
+* built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
+* produced software compatible with closed, proprietary protocols in the Building Automation industry (via protocol reverse engineering)
 
 ## Contact
 
