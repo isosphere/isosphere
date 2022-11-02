@@ -1,5 +1,5 @@
 I'm a software developer that cares about **computing under uncertainty**. I love Rust for its **safety guarentees**, and the Bayesian statistical
-approach for the **clarity** of its outputs. I believe in **clear communication** and **useful documentation**. I am a capable Linux and Windows server administrator and have a good understanding of networking. My first programming language was C and I was a hobbist video game "hacker", which together gave me a good foundation for the low-level basics of software development, memory management, and security.
+approach for the **clarity** of its outputs.
 
 As a software developer I have:
 * built a responsive WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
@@ -15,3 +15,5 @@ Most of my repositories are private, unfortunately.
 ## Contact
 
 You can find my Linked In profile [here](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
+
+I run a [Mastodon instance for Atlantic Canada](https://oceanplayground.social/@matt).
