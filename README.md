@@ -16,4 +16,4 @@ Most of my repositories are private, unfortunately.
 
 You can find my Linked In profile [here](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
 
-I run a [Mastodon instance for Atlantic Canada](https://oceanplayground.social/@matt).
+I run a [Mastodon instance for Atlantic Canada](https://oceanplayground.social/).
