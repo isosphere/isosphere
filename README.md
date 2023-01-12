@@ -7,8 +7,6 @@ As a software developer I have:
 * architected a custom CRM for the above client's physical meat business
 * built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
 * produced software compatible with closed, proprietary protocols in the Building Automation industry (via protocol reverse engineering)
-* professionally written software in Python, C, Perl, JavaScript, ASP.NET, and PHP
-* personally written software in Rust, assembly (68HC11, AVR), TypeScript, and .NET
 
 Most of my repositories are private, unfortunately. 
 
