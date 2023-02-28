@@ -9,8 +9,6 @@ As a software developer I have:
 * built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
 * produced software compatible with closed, proprietary protocols in the Building Automation industry
 
-Most of my repositories are private, unfortunately. 
-
 ## Contact
 
 You can find my Linked In profile [here](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
