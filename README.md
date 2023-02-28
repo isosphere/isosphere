@@ -19,4 +19,6 @@ I run a [Mastodon instance for Atlantic Canada](https://oceanplayground.social/)
 
 ## New Clients
 
-I am available for contract work; my principal customers are small businesses that rely heavily on Excel and manual data manipulation. I automate their processes to ensure that their data is serving them, rather than the other way around. I operate under the pseudonym [Data Heck](https://www.dataheck.com).
+I am available for contract work; my customers are small businesses that rely on Excel and manual data manipulation/entry. I automate their processes to ensure that their data is serving them - too many serve their data. 
+
+I operate under [Data Heck](https://www.dataheck.com).
