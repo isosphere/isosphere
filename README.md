@@ -1,6 +1,6 @@
 I'm a software developer that cares about computing under uncertainty. 
 
-I've become a Rust fanboy because `rustc` and `clippy` make my code drastically easier to maintain. Previously I stuck to Python, and Perl before that.
+Rust has become my primary language because `rustc` and `clippy` make my code drastically easier to maintain. Previously I stuck to Python, and Perl before that.
 
 As a software developer I have:
 * built a responsive WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
