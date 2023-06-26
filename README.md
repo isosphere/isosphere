@@ -3,7 +3,7 @@ I'm a software developer that cares about computing under uncertainty.
 Rust has become my primary language because `rustc` and `clippy` make my code drastically easier to maintain. Previously I stuck to Python, and Perl before that.
 
 As a software developer I have:
-* built a responsive WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com) (server is underpowered and overloaded as of this writing)
+* built a responsive WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
 * built a data collection, reporting, and analysis backend for the financial trading side of [an expert in the meat and livestock industry](https://jsferraro.com/)
 * architected a custom CRM for a client's physical meat business
 * built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
