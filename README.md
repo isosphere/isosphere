@@ -7,7 +7,7 @@ As a software developer I have:
 * built a data collection, reporting, and analysis backend for the financial trading side of [an expert in the meat and livestock industry](https://jsferraro.com/)
 * architected a custom CRM for a client's physical meat business
 * built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
-* produced software compatible with closed, proprietary protocols in the Building Automation industry
+* produced software compatible with closed, proprietary protocols in the building automation industry
 
 ## Contact
 
