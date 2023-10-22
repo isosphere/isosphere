@@ -9,6 +9,9 @@ As a software developer I have:
 * built monitoring software polling a campus of environmental monitoring devices for [Sanofi Pasteur](https://www.sanofi.ca/en/) in Toronto, Canada
 * produced software compatible with closed, proprietary protocols in the building automation industry
 
+I think these public issues are a good example of my work ethic and process:
+- https://github.com/isosphere/mastodon/issues/1
+
 ## Contact
 
 You can find my Linked In profile [here](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
