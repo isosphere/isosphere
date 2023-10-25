@@ -11,6 +11,10 @@ As a software developer I have:
 
 I think these public issues are a good example of my work ethic and process:
 - https://github.com/isosphere/mastodon/issues/1
+- https://github.com/PyO3/pyo3/pull/1476
+- https://github.com/erdogant/distfit/pull/12
+- https://github.com/arviz-devs/arviz/issues/1756
+- https://github.com/arviz-devs/arviz/issues/1755
 
 ## Contact
 
