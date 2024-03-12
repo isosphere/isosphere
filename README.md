@@ -1,4 +1,4 @@
-I'm a software developer that cares about computing under uncertainty. I aim to write reliable software that is easy to update later. 
+I'm a software developer that aims to create reliable and efficient software. 
 
 As a software developer I have:
 * built a data collection, reporting, and analysis backend for the financial trading side of [an expert in the meat and livestock industry](https://jsferraro.com/)
