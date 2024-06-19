@@ -2,7 +2,7 @@ I'm a software developer that hates friction.
 
 Some things I've built:
 
-* a data collection, reporting, and analysis backend for the financial trading side of [an expert in the meat and livestock industry](https://jsferraro.com/)
+* a data collection, reporting, and analysis backend for the financial trading side of an expert in the meat and livestock industry
 * a WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
 * the schema for a physical meat business bespoke CRM build (goals: recommendations, bid/ask order book, inventory management via automated sales)
 * bespoke monitoring and alarming software for environmental sensors across a pharmaceutical campus
