@@ -1,13 +1,16 @@
-I'm a software developer that hates friction. 
+I'll work all day if it means someone doesn't have to click something once a week.  
 
-Some things I've built:
+TL;DR my career: learned C at 13, learned and used Perl professionally through university[^1], switched to Python, switched to Rust around 2020. 
 
-* a data backend for a professional speculator in the meat and livestock futures market
-* a WASM application that [tracks power outages in Nova Scotia](https://outages.dataheck.com)
-* the schema for a physical meat business bespoke CRM build (goals: recommendations, bid/ask order book, inventory management via automated sales)
-* bespoke monitoring and alarming software for environmental sensors across a pharmaceutical campus
-* software compatiblity layers for closed, undocumented, proprietary protocols
-  
+[^1]: BEng Mechanical Engineering
+
+Most of my work has been building web things as a solo dev. My current stack for projects is Debian, PostgreSQL, Rust, WASM.
+
+C taught me respect for memory allocation and safety. 
+Perl taught me regular expressions and in-file documentation. 
+Python taught me how to move fast and build things.
+Rust taught me how productive it is to build on bedrock instead of sand.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
