@@ -7,7 +7,7 @@ TL;DR my experience: learned C at 13, then used Perl professionally through univ
 C taught me respect for memory allocation and safety. 
 Perl taught me the power of regular expressions and in-file documentation. 
 Python taught me how to move fast and build things.
-Rust taught me how productive it is to build on trust.
+Rust taught me how productive it is to build on trust backed by a picky compiler.
 
 Most of my work has been building web things as a solo dev. My current stack for projects is Debian, PostgreSQL, Rust, WASM.
 
