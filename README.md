@@ -1,16 +1,15 @@
-I'll work all day if it means someone doesn't have to click something once a week.  
+I build automation to eliminate repetitive tasks—if it saves someone a weekly click, I'll spend the day coding it.
+Solo web developer focused on reliable, performant solutions. Current stack: Debian, PostgreSQL, Rust, WASM.
 
-Most of my work has been building web things as a solo dev. My current stack for projects is Debian, PostgreSQL, Rust, WASM.
+# Language Journey:
 
-My first language was C, then paid my way through university[^1] with Perl. Switched to Python for years, and recently switched to Rust. 
+- C → Memory management and safety fundamentals
+- Perl → Regular expressions and documentation practices
+- Python → Rapid prototyping and iteration
+- Rust → Type-safe productivity with compiler-enforced reliability
 
-[^1]: BEng Mechanical Engineering
+I value code that works predictably and systems that respect both user time and developer sanity.
 
-C taught me respect for memory allocation and safety. 
-Perl taught me the power of regular expressions and in-file documentation. 
-Python taught me how to move fast and build things.
-Rust taught me how productive it is to build on trust backed by a picky compiler.
-
-## Contact
+# Contact
 
 [LinkedIn](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
