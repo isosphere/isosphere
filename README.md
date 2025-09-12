@@ -1,12 +1,11 @@
-I build automation to eliminate repetitive tasks—if it saves someone a weekly click, I'll spend the day coding it.
-Solo web developer focused on reliable, performant solutions. Current stack: Debian, PostgreSQL, Rust, WASM.
+I build automation to eliminate repetitive tasks. If it saves someone a weekly click, I'll spend the day coding it.
 
-# Language Journey:
+Current stack: Debian, PostgreSQL, Rust, WASM.
 
-- C → Memory management and safety fundamentals
-- Perl → Regular expressions and documentation practices
-- Python → Rapid prototyping and iteration
-- Rust → Type-safe productivity with compiler-enforced reliability
+- C taught me memory management and safety fundamentals
+- Perl taught me regular expressions and in-code documentation
+- Python taught me rapid prototyping
+- Rust taught me the value of type-safe productivity with compiler-enforced reliability
 
 I value code that works predictably and systems that respect both user time and developer sanity.
 
