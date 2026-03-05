@@ -1,6 +1,6 @@
-I build automation to eliminate repetitive tasks. If it saves someone a weekly click, I'll spend the day coding it.
+I'm a freelance developer with an appreciation for the efficient use of resources. I mostly build full-stack modular-monolithic systems.
 
-Current stack: Debian, PostgreSQL, Rust, WASM, GRPC.
+Current stack: Debian Linux, PostgreSQL, Rust, WASM, GRPC.
 
 - C taught me memory management and safety fundamentals
 - Perl taught me regular expressions and in-code documentation
