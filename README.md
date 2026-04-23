@@ -1,4 +1,4 @@
-I'm a freelance developer with an appreciation for the efficient use of resources. I mostly build full-stack modular-monolithic systems.
+I build full-stack modular-monolithic web-first systems.
 
 Current stack: Debian Linux, PostgreSQL, Rust, WASM, GRPC.
 
