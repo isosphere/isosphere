@@ -9,6 +9,6 @@ Current stack: Debian Linux, PostgreSQL, Rust, WASM, GRPC.
 
 I value code that works predictably and systems that respect both user time and developer sanity.
 
-# Contact
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/matthew-scheffel/), you should also see my e-mail in the panel on the left.
